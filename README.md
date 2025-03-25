@@ -16,8 +16,9 @@ A Google Workspace-based IT Change Request Approval System using Google Forms, S
 This project is a Google Workspace-based IT Change Request Approval System using Google Forms, Sheets, and Apps Script.
 
 ### Google Form
-![IT Change Request Form](Screenshot%2025-03-24-1859441.png)
+![IT Change Request Form](Screenshot%202025-03-24%20190015.png)
 
 ### Google Sheet (Responses)
-![IT Change Request Responses](Screenshot%2025-03-24%190015.png)
+![IT Change Request Responses](Screenshot%202025-03-24%20185941.png)
+
 
